@@ -1,0 +1,5 @@
+*.gz
+clone
+weights
+__pycache__
+VOC
